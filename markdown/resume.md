@@ -122,6 +122,7 @@ when applying image manipulation on file sizes up to 10MB.
 
 -------------------------------------------------- ---------------------------------
 __Bachelor of Sciences, Computer Science__          University of Georgia; 2014-2015
+
 __Bachelor of Arts, Music Performance (Trumpet)__   University of Georgia; 2005-2012
 -------------------------------------------------- ---------------------------------
 
