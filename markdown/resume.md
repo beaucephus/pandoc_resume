@@ -2,21 +2,37 @@
 
 -------------------------------- -------------
 <josephtylerbrowning@gmail.com>   478-737-1092
+
 <https://github.com/beaucephus>     Athens, GA
 -------------------------------- -------------
 
 ---   
 
-* 5-years-experienced developer with proven experience <strong>designing</strong>, <strong>implementing</strong>, <strong>scaling</strong>, <strong>monitoring</strong>, and <strong>supporting</strong>
-cloud-based tools and automation to speed up <strong>development</strong>, stream-line <strong>operations</strong>, and enhance <strong>systems reliability</strong>.
+* 5-years-experienced developer with proven experience __designing__, __implementing__, __scaling__, \
+__monitoring__, and __supporting__ cloud-based tools and automation to speed up __development__, \
+stream-line __operations__, and enhance __systems reliability__.
 * Excellent communicator able to convey information to diverse audiences.
-* Collaborative team player combining industry best-practices and business needs to <strong>deliver outcomes</strong>.
+* Collaborative team player combining industry best-practices and business needs to \
+__deliver outcomes__.
 
 ----
 
 ## Areas of Expertise  
 
-<table>
+* DevOps
+* Software Engineering and Development
+* Continuous Integration, Delivery, and Deployment
+* Test-Driven Development
+* Cloud Computing
+* Containers
+* Micro-services
+* Configuration Management Systems
+* Systems Architecture
+* Systems Administration
+* Agile and Kanban Development Lifecycles
+* E-commerce
+
+<!-- <table>
     <tr>
         <td>DevOps</td>
         <td>Containers</td>
@@ -41,7 +57,7 @@ cloud-based tools and automation to speed up <strong>development</strong>, strea
         <td>Agile and Kanban Development Lifecycles</td>
         <td>E-commerce</td>
     </tr>
-</table>
+</table> -->
 
 ----
 
