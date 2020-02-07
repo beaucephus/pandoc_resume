@@ -77,7 +77,7 @@ __Operating Systems__: Linux, Mac OS, Windows
 
 Macy's Technology | 2015-Present
 
-__Senior Developer and Operations Engineer__ | 2018-Present
+__Senior Software Engineer__ | 2018-Present
 
 _Infrastructure and Cloud DevOps_
 
@@ -99,7 +99,7 @@ expertise.
 which allowed operations and monitoring teams to collect TCP dump information, and recycle JBoss applications
 simultaneously across thousands of public and private cloud virtual machines.
 
-__Developer and Operations Engineer__ | 2016-2018
+__DevOps Engineer__ | 2016-2018
 
 * Quickly and efficiently designed and collaboratively implemented application deployment solution for over 100 NodeJS,
 JBoss AS, and Apache WS applications when business needs required a quick pivot away from expensive paid product that
@@ -111,7 +111,7 @@ scenarios.
 applications serving Macys.com and Bloomingdales.com. Uniform infrastructure reduced feature promotion time, which
 reduced time between code releases by 50% and directly increased speed-to-market by 100%.
 
-__Junior Developer and Operations Engineer__ | 2015-2016
+__Junior DevOps Engineer__ | 2015-2016
 
 * Automated verification of internal firewall and routing changes using Jenkins and Ruby scripting. Saved many
 engineer hours that previously were spent manually verifying changes.
