@@ -2,3 +2,6 @@
 *.swo
 *.swp
 output/
+
+# Mac
+.DS_Store

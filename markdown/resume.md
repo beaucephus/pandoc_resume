@@ -23,6 +23,7 @@ __deliver outcomes__.
 * Software Engineering and Development
 * Continuous Integration, Delivery, and Deployment
 * Test-Driven Development
+* Amazon Web Services
 * Cloud Computing
 * Containers
 * Micro-services
@@ -32,33 +33,6 @@ __deliver outcomes__.
 * Agile and Kanban Development Lifecycles
 * E-commerce
 
-<!-- <table>
-    <tr>
-        <td>DevOps</td>
-        <td>Containers</td>
-    </tr>
-    <tr>
-        <td>Software Engineering and Development</td>
-        <td>Micro-services</td>
-    </tr>
-    <tr>
-        <td>Continuous Integration, Delivery, and Deployment</td>
-        <td>Configuration Management Systems</td>
-    </tr>
-    <tr>
-        <td>Test-Driven Development</td>
-        <td>Systems Architecture</td>
-    </tr>
-    <tr>
-        <td>Cloud Computing</td>
-        <td>Systems Administration</td>
-    </tr>
-    <tr>
-        <td>Agile and Kanban Development Lifecycles</td>
-        <td>E-commerce</td>
-    </tr>
-</table> -->
-
 ----
 
 ## Technical Skills and Tools
@@ -67,7 +41,7 @@ __Languages, Libraries, and Frameworks:__ Ruby, Rails, Grape, Chef, RSpec, Serve
 
 __Markup and Styles:__ JSON, YAML, HTML, CSS, SCSS
 
-__Applications, Services, and Databases:__ Git, GitLab, Jenkins, Docker, Vagrant, Akamai, Heroku, JFrog Artifactory, Chef Server, Chef Infra, HA Proxy, JBoss AS, Apache WS, Nginx, MySQL, Jira, Confluence, Splunk, Nagios
+__Applications, Services, and Databases:__ AWS, Git, GitLab, Jenkins, Docker, Vagrant, Akamai, Heroku, JFrog Artifactory, Chef Server, Chef Infra, HA Proxy, JBoss AS, Apache WS, Nginx, MySQL, Jira, Confluence, Splunk, Nagios
 
 __Operating Systems__: Linux, Mac OS, Windows
 
@@ -131,6 +105,12 @@ physical-feeling, and mobile-enabled user experience. The back-end utilizes Node
 when applying image manipulation on file sizes up to 10MB.
 
       * <https://www.magicitemtool.com/>
+
+----
+
+## Certifications
+[AWS Certified Developer \(Click me!\)](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2020-03-04&ci=AWS01317756)
+![](../images/aws_developer_associate/aws-certified-logo_color-horz_180x30.png)
 
 ----
 
