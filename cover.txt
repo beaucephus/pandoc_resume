@@ -1,1 +1,2 @@
-I have 5 years of experience working on creating, building, testing, and monitoring Rails, Java, and Angular applications and the infrastructure that runs them. I believe in being correct, honest, and helpful, and I love coding because it's the closest I'm ever going to get to being a real-life wizard.
+I have 5 years of experience working on creating, building, testing, and monitoring Rails, Java, and Angular applications and the infrastructure that runs them.
+I believe in being correct, honest, and helpful, and I love coding because it's the closest I'm ever going to get to being a real-life wizard.

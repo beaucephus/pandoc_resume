@@ -1,0 +1,9 @@
+I have 5 years of experience working on creating, building, testing, and monitoring Rails, Java, and Angular applications and the infrastructure that runs them.
+I believe in being correct, honest, and helpful, and I love coding because it's the closest I'm ever going to get to being a real-life wizard.
+
+I think helping voters inform themselves and bettering education in general is one of the best, most ethical missions that I've had the opportunity to apply to.
+I think there's more important things in life than getting ahead of the competition and working for a noble cause is an exciting proposition for me.
+I remember using a service similar to Ballotpedia (It may have been Ballotpedia, but I must admit I don't remember) to see what issues and offices would be on my ballot in the 2016 and 2018 elections.
+
+You can find a link to my github in my resume. I'll also include a link to a sample take home project I completed for an earlier applicaiton for your reference.
+https://gitlab.com/bocephus/mission-control
