@@ -1,0 +1,13 @@
+I have 5 years of experience working on creating, building, testing, and
+monitoring Rails, Java, and Angular applications and the infrastructure that
+runs them. I believe in being correct, honest, and helpful, and I love coding
+because it's the closest I'm ever going to get to being a real-life wizard.
+
+I am searching for a role where I am able to solve interesting problems through
+writing code and engineering systems. I consider myself a polyglot engineer.
+I know enough to be dangerous in several languages, frameworks, and systems,
+and I want to expand that knowledge to truly become a guru on the subjects of
+systems reliability, DevOps, and software engineering.
+
+I love your emphasis on solid coding skills in the SRE position description.
+That description fits my desired day-to-day to a T.
